@@ -6,24 +6,24 @@
 		<description>Morrowind style birthsigns modified to fit into RimWorld, and without any fancy abilities.</description>
 		<birthsignHediffs>
 			<li>
-				<li>MorrowRim_PassiveBirthsigns_TheRitual_RimWorld</li>
-				<li>MorrowRim_PassiveBirthsigns_TheLover_RimWorld</li>
 				<li>MorrowRim_PassiveBirthsigns_TheLord_RimWorld</li>
-			</li>
-			<li>
 				<li>MorrowRim_PassiveBirthsigns_TheMage_RimWorld</li>
 				<li>MorrowRim_PassiveBirthsigns_TheShadow_RimWorld</li>
-				<li>MorrowRim_PassiveBirthsigns_TheSteed_RimWorld</li>
 			</li>
 			<li>
+				<li>MorrowRim_PassiveBirthsigns_TheSteed_RimWorld</li>
 				<li>MorrowRim_PassiveBirthsigns_TheApprentice_RimWorld</li>
 				<li>MorrowRim_PassiveBirthsigns_TheWarrior_RimWorld</li>
-				<li>MorrowRim_PassiveBirthsigns_TheLady_RimWorld</li>
 			</li>
 			<li>
+				<li>MorrowRim_PassiveBirthsigns_TheLady_RimWorld</li>
 				<li>MorrowRim_PassiveBirthsigns_TheTower_RimWorld</li>
 				<li>MorrowRim_PassiveBirthsigns_TheAtronach_RimWorld</li>
+			</li>
+			<li>
 				<li>MorrowRim_PassiveBirthsigns_TheThief_RimWorld</li>
+				<li>MorrowRim_PassiveBirthsigns_TheRitual_RimWorld</li>
+				<li>MorrowRim_PassiveBirthsigns_TheLover_RimWorld</li>
 			</li>
 		</birthsignHediffs>
 		<additionalSigns>
